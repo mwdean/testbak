@@ -1,0 +1,3 @@
+[submodule "testbak/module-1"] 
+  path = lib/obj
+  url = module-1 
